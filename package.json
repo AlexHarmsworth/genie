@@ -2,7 +2,7 @@
   "name": "genie",
   "version": "1.0.0",
   "description": "",
-  "main": "lottery.js",
+  "main": "index.js",
   "dependencies": {
     "random-js": "^2.1.0"
   },
